@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Sir Arthur Hesilrige to the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, of a great victory obtained by the Parliaments forces in Northumberland, where were taken prisoners Colonel Grey, Sir Richard Tempest, commanders in chief, Sir Francis Ratcliff, Sir Gervas Lucas, and divers lieutenant colonels, and other officers and gentlemen of quality, above three hundred  soldiers, and between five and six hundred horses, and many arms, as by the list bearing date 1. July, 1648, appeareth. Together with Colonel Lilburn's letter to Sir Arthur Hesilrige. 5 Julii, 1648. Ordered by the Commons assembled in Parliament, that these letters and list be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Hesilrige, Arthur, Sir, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86091</idno>
+            <idno type="STC">Wing H1121</idno>
+            <idno type="STC">Thomason E451_25</idno>
+            <idno type="STC">ESTC R202380</idno>
+            <idno type="EEBO-CITATION">99862690</idno>
+            <idno type="PROQUEST">99862690</idno>
+            <idno type="VID">161939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161939)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Sir Arthur Hesilrige to the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, of a great victory obtained by the Parliaments forces in Northumberland, where were taken prisoners Colonel Grey, Sir Richard Tempest, commanders in chief, Sir Francis Ratcliff, Sir Gervas Lucas, and divers lieutenant colonels, and other officers and gentlemen of quality, above three hundred  soldiers, and between five and six hundred horses, and many arms, as by the list bearing date 1. July, 1648, appeareth. Together with Colonel Lilburn's letter to Sir Arthur Hesilrige. 5 Julii, 1648. Ordered by the Commons assembled in Parliament, that these letters and list be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Hesilrige, Arthur, Sir, d. 1661.</author>
+                  <author>Lilburne, Robert, 1613-1665.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 7. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161939:1" rendition="simple:additions"/>
+            <p>A LETTER From Sir <hi>Arthur Heſilrige</hi> To the Honorable <hi>William Lenthal</hi> Eſq; Speaker of the Honorable Houſe of Commons, OF A GREAT VICTORY Obtained by the Parliaments Forces in <hi>Northumberland, Where were taken Priſoners</hi> Colonel <hi>Grey,</hi> Sir <hi>Richard Tempeſt,</hi> Commanders in chief, Sir <hi>Francis Ratcliff,</hi> Sir <hi>Gervas Lucas,</hi> and divers Lieutenant Colonels, and other Officers and Gentlemen of quality, above Three hundred Soldiers, and between Five and Six hundred Horſes, and many Arms, as by the Liſt bearing date 1. <hi>July,</hi> 1648, appeareth.</p>
+            <p>Together with Colonel <hi>Lilburn</hi>'s Letter to Sir ARTHUR HESILRIGE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>5 Julii, 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That theſe Letters and Liſt be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>July</hi> 7. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161939:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:161939:2"/>
+            <head>To the Honorable, <hi>William Lenthal</hi> Eſq; Speaker of the Honorable Houſe of COMMONS.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have heard how <hi>Langdale</hi> retreated upon Major General <hi>Lamberts</hi> ap<g ref="char:EOLhyphen"/>proaching, and would not engage his Forces upon terms of advantage, reſolving to preſerve his Body whole to joyn with the Scots; and upon his retreat to Carliſle, he ſent Colonel <hi>Tempeſt</hi> with Seven or Eight hun<g ref="char:EOLhyphen"/>dred of his Horſe for to meet Colonel <hi>Grey,</hi> that was before that time kept up in Berwick by our Northumberland Horſe, with the aſ<g ref="char:EOLhyphen"/>ſiſtance of Major <hi>Sanderſons</hi> two Troops: but upon Colonel <hi>Tempeſts</hi> coming into Northum<g ref="char:EOLhyphen"/>berland, ours drew towards Newcaſtle, and Colonel <hi>Grey</hi> with his Forces from Berwick joyned with Colonel <hi>Tempeſt</hi> about Alnwick: I ſent for the Biſhoprick Regiment of Horſe under Colonel <hi>Wren,</hi> to come into Northum<g ref="char:EOLhyphen"/>berland to joyn with Colonel <hi>Fenwick</hi> (who commanded the Northumberland new raiſed
+<pb n="4" facs="tcp:161939:3"/> Regiment) and Major <hi>Sanderſon;</hi> I alſo mount<g ref="char:EOLhyphen"/>ed about One hundred of my Foot as Dra<g ref="char:EOLhyphen"/>goons, and ſent them to them: I writ alſo to Major General <hi>Lambert,</hi> letting him underſtand that the Enemy was joyned, and intreated him to ſend ſome aſsiſtance immediately to our forces: Upon Friday laſt, Col: <hi>Lilburn</hi> with three Troops of Horſe, came to them to <hi>Choller<g ref="char:EOLhyphen"/>ton,</hi> and that evening they marched towards the Enemy that lay about Eſlington, and Whit<g ref="char:EOLhyphen"/>tingham, and all along Cocquet water; and having marched all night, the next morning they fell into their quarters, the Enemy having no Scouts out, and they fell ſo cloſe in from Town to Town for about ſeven miles, that they ſuffered the Enemy to take no Alarum: There are taken moſt of the conſiderable Gen<g ref="char:EOLhyphen"/>tlemen of Northumberland and Biſhoprick, that were the very firſt beginers of this War, and incouragers of the Scots to come into Eng<g ref="char:EOLhyphen"/>land, and at leaſt Three hundred private Sol<g ref="char:EOLhyphen"/>diers, and between 5 and 600 Horſes, and good ſtore of Arms, without the loſs of one man of either ſide. I have incloſed a Letter ſent to me from Col: <hi>Lilburn,</hi> in which you will ſee the Enemies intention, and have cauſe to give God
+<pb n="5" facs="tcp:161939:3"/> the greater praiſe, That when the Enemy reſol<g ref="char:EOLhyphen"/>ved, out of policy, Not to fight, that God was pleaſed to give them up into our hands, with<g ref="char:EOLhyphen"/>out ſtriking a ſtroke, and that to their ever<g ref="char:EOLhyphen"/>laſting ſhame, I have alſo ſent you a Liſt of the Commanders and Gentlemen that are taken: I beſeech you do not apprehend that the work in the North is done, God having beſtowed this great mercy upon us, for be aſſured the Scots are come very near the Borders, and <hi>Lang<g ref="char:EOLhyphen"/>dale</hi> is joyned with them, and their numbers will be far too great for what we are able to withſtand in theſe parts, onely to God no<g ref="char:EOLhyphen"/>thing is impoſsible. Some of the foot Soldiers of this Gariſon, and ſome of our new raiſed Horſe ran away to the Enemy, and we have taken divers of them, and we intend to try them by a Counſel of War, unleſs you pleaſe to diſpoſe otherwiſe of them; if ſo, we deſire we may ſpeedily know your pleaſure; if not, they will be ſuddenly knit up: Col: <hi>Grey</hi> compoun<g ref="char:EOLhyphen"/>ded at Goldſmiths-Hall, and did take the Cove<g ref="char:EOLhyphen"/>nant, and ſo have ſome others, and there is not a man in the North of England that hath done you more miſchief then Col: <hi>Grey:</hi> I ſhall take the beſt care I can to keep them ſafe in Tin<g ref="char:EOLhyphen"/>mouth-Caſtle,
+<pb n="6" facs="tcp:161939:4"/> till I know what your com<g ref="char:EOLhyphen"/>mands are; and you have now in cuſtody your chiefeſt Enemies in Northumberland and Bi<g ref="char:EOLhyphen"/>ſhoprick, for the begining of this new War in the Northern parts, and the taking of Berwick. I writ formerly to you, to intreat the Houſe to take notice of the diligence, pains, and faithful<g ref="char:EOLhyphen"/>neſs of your few friends in Northumberland and Biſhoprick, that have raiſed the Horſe, and now I hope you will be pleaſed to grant it, for their ſervice hath been very real and beneficial, both to you and the Kingdom: I have one more favor to beg, That you will be pleaſed to keep Free-quarter out of the Gariſon of Newcaſtle, and then it will be ſerviceable to you upon all occaſions. We know not what to do with the ordinary priſoners, I wiſh that ſome Mer<g ref="char:EOLhyphen"/>chants had them for a Plantation, for we finde by experience, That very few that have fought againſt the Parliament do alter their opinions.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your humbleſt Servant, <hi>ART: HESILRIGE.</hi>
+               </signed>
+               <dateline>Newcastle,
+<date>2 Julii, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:161939:4"/>
+            <opener>
+               <salute>Honored Sir,</salute>
+            </opener>
+            <p>GOd having bleſt us with greater ſucceſs then we expected this day upon the Enemy, I cannot but admire his goodneſs, and speak of it to others to the praiſe of his Name. Having ſent my man to acquaint you (in part) herewith, I have in the incloſed ſent you a more perfect Account of the quality and number of Priſoners taken, having diſsipated their whole Force in this County, that there did not eſcape above Two hun<g ref="char:EOLhyphen"/>dred and fifty in a Body, beſides thoſe that crept into hedges and hid themſelves. This hath ſtruck a very great aſtoniſhment into the Gentlemen that are Priſoners, and they confeſs it will much diſtract their Affairs, and alter the deſigns of <hi>Langdale:</hi> He had ſent them Orders to march towards Dunfreiſe, to joyn with him and the Scots there; and had we but ſtaid but three hours longer, they had been gone, and we loſt our labor. I can<g ref="char:EOLhyphen"/>not inlarge, being very indispoſed and weary at preſent, but intreat you to ſend a Meſſenger speedily to Major General <hi>Lambert,</hi> to acquaint him herewith, becauſe our Horſes are much wearied: I ſhall leave that to Col: <hi>Fenwicks</hi> further Relation, and ſubſcribe my ſelf,</p>
+            <closer>
+               <dateline>Morpeth,
+<date>July 1. 1648.</date>
+               </dateline>
+               <signed>Your very humble Servant, <hi>ROBERT LILBURN.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="8" facs="tcp:161939:5"/>
+            <head>PRISONERS taken in <hi>Northumberland,</hi> July 1. 1648.</head>
+            <list>
+               <item>COlonel <hi>Edw: Grey,</hi> Commander in chief of the Forces in Northumberland.</item>
+               <item>Col: Sir <hi>Richard Tempeſt</hi> Baronet, Commander in chief of the Forces for the County of Dureſm.</item>
+               <item>Sir <hi>Francis Ratcliff.</hi>
+               </item>
+               <item>Baronet <hi>Ratcliffs</hi> Son.</item>
+               <item>Sir <hi>Gervas Lucas.</hi>
+               </item>
+               <item>Mr. <hi>Geo: Bellaſis,</hi>
+               </item>
+               <item>Mr. <hi>Geo: Collingwood</hi> Refor<g ref="char:EOLhyphen"/>madoes.</item>
+               <item>Mr. <hi>John Collingwood</hi> Refor<g ref="char:EOLhyphen"/>madoes.</item>
+               <item>Lieut: Col: <hi>John Salkield.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Ralph Millet.</hi>
+               </item>
+               <item>Lieut: Col: <hi>John Thornton.</hi>
+               </item>
+               <item>Major <hi>Tho: Salkield.</hi>
+               </item>
+               <item>Major <hi>Trollop.</hi>
+               </item>
+               <item>Capt. <hi>Francis Braudling.</hi>
+               </item>
+               <item>Capt. <hi>James Shafto.</hi>
+               </item>
+               <item>Capt. <hi>Hugh James.</hi>
+               </item>
+               <item>Capt. <hi>Smith.</hi>
+               </item>
+               <item>Capt. <hi>Fetherſtonhaugh.</hi>
+               </item>
+               <item>Capt. <hi>Francis Carlton.</hi>
+               </item>
+               <item>Capt. <hi>Aſcue.</hi>
+               </item>
+               <item>Capt. <hi>Ambroſe Carlton.</hi>
+               </item>
+               <item>Mr. <hi>Gowen Ratcliff.</hi>
+               </item>
+               <item>Mr. <hi>Roger Ratcliff.</hi>
+               </item>
+               <item>Mr. <hi>Ralph Bowes.</hi>
+               </item>
+               <item>Mr. <hi>John Wright.</hi>
+               </item>
+               <item>Mr. <hi>Cholmley Wright.</hi>
+               </item>
+               <item>Mr. <hi>Jo: Thornton.</hi>
+               </item>
+               <item>Mr. <hi>William Hodgſon.</hi>
+               </item>
+               <item>Mr. <hi>Charls Selby.</hi>
+               </item>
+               <item>Mr. <hi>John Thurlwel.</hi>
+               </item>
+               <item>Mr. <hi>Will: Lampton.</hi>
+               </item>
+               <item>Mr. <hi>Shaw.</hi>
+               </item>
+               <item>Mr. <hi>Lancelot Selby.</hi>
+               </item>
+               <item>Mr. <hi>Nicho: Woodhouſe.</hi>
+               </item>
+               <item>Mr. <hi>Antho: Trollop.</hi>
+               </item>
+               <item>Mr. <hi>John Fitzwilliams.</hi>
+               </item>
+               <item>Mr. <hi>John Siſon.</hi>
+               </item>
+               <item>Mr. <hi>Tho: Hardy.</hi>
+               </item>
+               <item>Mr. <hi>John Watſon.</hi>
+               </item>
+               <item>Mr. <hi>Ralph Claxton.</hi>
+               </item>
+            </list>
+            <p>And many other Gentlemen, Lieutenants, and other Officers, and above Three hundred Soldiers, and between Five or Six hundred Horſes, and many Arms.</p>
+            <p>The Enemy was about One thouſand two hundred, and we about Nine hundred. Six hundred Foot came out of <hi>Berwick</hi> this day, and was within eight miles of the Horſe, to have joyned with them about <hi>Calilah.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
